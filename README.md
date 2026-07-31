@@ -1,15 +1,13 @@
 # GroundedDI-Desktop-Builds
 Development repository for Grounded DI native desktop applications. Documents local-first software architecture, source code, build workflows, packaging, testing, and platform-specific implementation for macOS and Windows.
 
-**The Courier: Wrong Door v0.2.0 running natively on macOS.**
+# 1. **The Courier: Wrong Door v0.2.0 running natively on macOS.**
 
 A tactile deterministic arcade game featuring real track-based routing, direct machinery controls, tick-indexed replay, rescues, Express parcels, escalating score multipliers, overload after three failures, and immediate one-touch restart.
 
 Built by Grounded DI LLC with React, TypeScript, Vite, Tauri 2, and one pure authoritative game engine. No networking, telemetry, advertisements, or remote runtime assets.
 
-# BriefWise DI² — Offline Legal-Authority Replay Demonstration
-
-## Overview
+# 2. **riefWise DI² — Offline Legal-Authority Replay Demonstration**
 
 BriefWise retrieved a public court opinion from CourtListener, froze the acquired source, and recorded separate hashes for:
 
