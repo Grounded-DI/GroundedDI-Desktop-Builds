@@ -7,7 +7,7 @@ A tactile deterministic arcade game featuring real track-based routing, direct m
 
 Built by Grounded DI LLC with React, TypeScript, Vite, Tauri 2, and one pure authoritative game engine. No networking, telemetry, advertisements, or remote runtime assets.
 
-**BriefWise DI² — Offline Legal-Authority Replay Demonstration**
+# BriefWise DI² — Offline Legal-Authority Replay Demonstration
 
 ## Overview
 
