@@ -51,6 +51,28 @@ It is labeled as a qualitative,
 record-grounded analysis. It is not a
 verdict prediction.
 
+## DepoBot DI2
+
+This screen capture shows the
+DepoBot DI2 deposition-review surface.
+
+![DepoBot DI2 review][depobot]
+
+[depobot]: ./DepoBot_DI2_Deposition_Review_Screen.png
+
+The screen preserves:
+
+- deposition-scope review;
+- unresolved input state;
+- source-linked review;
+- witness and exhibit fields;
+- attorney-controlled analysis; and
+- no-outcome-guarantee language.
+
+This is a product screen capture, not
+live legal validation or a filing
+certification.
+
 ## D.I. Principles
 
 The public evidence is organized around
