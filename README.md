@@ -1,6 +1,14 @@
 # GroundedDI-Desktop-Builds
 Development repository for Grounded DI native desktop applications. Documents local-first software architecture, source code, build workflows, packaging, testing, and platform-specific implementation for macOS and Windows.
 
+## BriefWise DI² on Gemini — report and control
+
+**13 September 2026 · Grounded DI LLC**
+
+A cross-engine legal drafting example, a revealing Gemini control, and a source-linked audit of both answers. Includes Gemini’s subsequent acknowledgments, the comparison’s limits, and a disclosure that companion evidence is not included in this posting.
+
+[Read the report and overview](reports/briefwise-di2-on-gemini/README.md) · [Open the redacted PDF](reports/briefwise-di2-on-gemini/BriefWise_DI2_on_Gemini.pdf)
+
 ## The Tornado — one-prompt upgrade from 5.6 SOL to Astra
 
 **7 September 2026 · Grounded DI LLC**

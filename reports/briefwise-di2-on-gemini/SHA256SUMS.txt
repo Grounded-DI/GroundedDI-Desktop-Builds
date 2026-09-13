@@ -1,0 +1,2 @@
+e92709e0bac488755890552d5784b3defe6b53f0dfdfd80e5f07c860ebb9eda8  BriefWise_DI2_on_Gemini.pdf
+926033ede80e87f3f8c97161fc7bf1d40f838dc4f407b57ecf14da272a7e84a1  BriefWise_DI2_on_Gemini.md
