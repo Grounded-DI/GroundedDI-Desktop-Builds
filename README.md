@@ -5,7 +5,7 @@ Development repository for Grounded DI native desktop applications. Documents lo
 
 **13 September 2026 · Grounded DI LLC**
 
-A cross-engine legal drafting example, a revealing Gemini control, and a source-linked audit of both answers. Includes Gemini’s subsequent acknowledgments, the comparison’s limits, and a disclosure that companion evidence is not included in this posting.
+A cross-engine legal drafting example, a revealing Gemini control, and a source-linked audit of both answers. Includes Gemini’s subsequent acknowledgments, the comparison’s limits, and redacted supporting evidence.
 
 [Read the report and overview](reports/briefwise-di2-on-gemini/README.md) · [Open the redacted PDF](reports/briefwise-di2-on-gemini/BriefWise_DI2_on_Gemini.pdf)
 

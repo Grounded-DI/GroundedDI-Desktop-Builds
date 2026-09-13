@@ -2,7 +2,7 @@
 
 **A working cross-engine example and a revealing Gemini control**
 
-[Read the report (PDF)](BriefWise_DI2_on_Gemini.pdf) · [Read online](BriefWise_DI2_on_Gemini.md)
+[Read the report (PDF)](BriefWise_DI2_on_Gemini.pdf) · [Read online](BriefWise_DI2_on_Gemini.md) · [Download redacted evidence](BriefWise_DI2_on_Gemini_Evidence.zip)
 
 BriefWise DI² on Gemini produced a structured California asbestos motion, with separate exposure and causation analyses, authority mappings, element coverage and unresolved-record markers. The accompanying Gemini simulation control makes the example especially useful: the BriefWise DI² answer selected the relevant Scheiding discovery-burden decision, while the control connected a different, real Scheiding decision to the wrong legal proposition.
 
@@ -16,7 +16,7 @@ The report examines that contrast, errors in **both** answers, and Gemini’s su
 - Gemini’s later agreement is a model-generated response, not independent validation or a Google endorsement.
 - The legal drafts retain errors and are not filing-ready documents. The report describes the scope of its source review and remaining verification limits.
 
-The report refers to a companion evidence archive. That archive is retained locally and is **not included in this public posting**; separate publication approval is pending.
+The companion evidence archive contains redacted request and response exhibits, reported metadata, the historical audit, source links and an internal integrity manifest. Proprietary redactions remain in place.
 
 ## Publication contents
 
@@ -24,7 +24,8 @@ The report refers to a companion evidence archive. That archive is retained loca
 | --- | --- |
 | BriefWise_DI2_on_Gemini.pdf | Approved redacted report |
 | BriefWise_DI2_on_Gemini.md | Searchable reading copy of that report |
-| SHA256SUMS.txt | SHA-256 checksums of the two report artifacts |
+| BriefWise_DI2_on_Gemini_Evidence.zip | Redacted supporting exhibits and integrity manifest |
+| SHA256SUMS.txt | SHA-256 checksums of the three publication artifacts |
 
 The PDF is the newly redacted publication copy approved for posting on September 13, 2026. Earlier unredacted reports are excluded from this publication. Checksums establish file consistency, not the accuracy of model statements.
 
