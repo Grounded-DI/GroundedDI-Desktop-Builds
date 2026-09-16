@@ -2,13 +2,15 @@
 
 A public evidence archive for Grounded DI LLC's local-first desktop prototypes, replay demonstrations, validation records, and visual build artifacts.
 
+**Published by Grounded DI LLC · Creator / Operator: Mark S. Weinstein · Public repository established July 29, 2026**
+
 ## Overview
 
 This repository preserves selected public artifacts from Grounded DI desktop application work across legal review, environmental monitoring, defensive security, and games. The collection includes screenshots, videos, PDF implementation records, replay evidence, a redacted comparative report, and cryptographic checksums.
 
 The represented systems use rule-governed processing, explicit validation states, human release boundaries, audit receipts, and replay or hash controls where the individual artifact documents them. In this context, *deterministic* means reproducible or threshold-defined behavior under stated inputs and serialization conditions; it does not mean that every output is universally correct or invariant.
 
-This is an evidence and demonstration repository. The `main` branch does **not** currently contain application source code, installers, package manifests, deployment configuration, or a runnable automated test suite. Build and test results described below are therefore historical records unless expressly identified as rechecked during the current repository review.
+> **Repository scope:** This is a public evidence and demonstration archive. Application source code, installers, package manifests, deployment configuration, and runnable application test suites are maintained separately where applicable. Build and test results below are identified as historical records or current-review checks.
 
 ## Why It Matters
 
@@ -23,6 +25,10 @@ Desktop AI and decision-support software can be difficult to evaluate from scree
 
 The repository is intended to support technical review and scoped commercial evaluation without publishing private prompts, runtime packages, internal governance materials, or other nonpublic implementation details.
 
+## Evaluation Value
+
+The archive allows technical and commercial reviewers to inspect how Grounded DI approaches rule-gated workflows, human release boundaries, deterministic replay, provenance, and audit-ready desktop execution before requesting access to private implementations or a scoped evaluation.
+
 ## Repository Highlights
 
 | Area | Public evidence | Supported scope |
@@ -31,7 +37,7 @@ The repository is intended to support technical review and scoped commercial eva
 | BriefWise DI² audit and replay | [`BriefWise_DI²_Audit_and_Replay_Offline_close_reopen_fresh_evaluation_canonical-byte_comparison_and_SHA-256_matched.pdf`](BriefWise_DI%C2%B2_Audit_and_Replay_Offline_close_reopen_fresh_evaluation_canonical-byte_comparison_and_SHA-256_matched.pdf) | Visual evidence of frozen inputs, fresh recomputation, canonical serialization, replay comparison, and SHA-256 identity checks in a synthetic legal workflow. |
 | BriefWise DI² legal review | [`BriefWise_DI2_Localhost_Demo_Output_Deterministic_Intelligence_Grounded_DI_LLC.pdf`](BriefWise_DI2_Localhost_Demo_Output_Deterministic_Intelligence_Grounded_DI_LLC.pdf) and [`BriefWise_DI_Caselaw_Heatmap_Demo_Localhost.pdf`](BriefWise_DI_Caselaw_Heatmap_Demo_Localhost.pdf) | Localhost demonstrations of issue decomposition, unresolved-item handling, filing-readiness gating, and authority-oriented visual analysis. These are demonstrations, not legal advice or proof of legal correctness. |
 | Cross-engine legal drafting report | [`reports/briefwise-di2-on-gemini/`](reports/briefwise-di2-on-gemini/) | A redacted report, supporting evidence archive, source index, limitations, and SHA-256 checksums. The report analyzes errors in both compared answers and expressly rejects causal or superiority conclusions from a single unmatched comparison. |
-| Environmental and safety interfaces | [`earthwise_visual_1_command_center_hd.png`](earthwise_visual_1_command_center_hd.png), [`earthwise_visual_2_eloc_events_hd.png`](earthwise_visual_2_eloc_events_hd.png), [`earthwise_visual_3_cleanair_map_hd.png`](earthwise_visual_3_cleanair_map_hd.png), [`earthwise_visual_4_audit_reviewer_hd.png`](earthwise_visual_4_audit_reviewer_hd.png), and related PDFs | Visual prototypes for structured observations, threshold events, map-based review, audit-chain review, and defensive security observations. Source and executable builds are not included. |
+| Environmental, hazard, and security interfaces | [`earthwise_visual_1_command_center_hd.png`](earthwise_visual_1_command_center_hd.png), [`earthwise_visual_2_eloc_events_hd.png`](earthwise_visual_2_eloc_events_hd.png), [`earthwise_visual_3_cleanair_map_hd.png`](earthwise_visual_3_cleanair_map_hd.png), [`earthwise_visual_4_audit_reviewer_hd.png`](earthwise_visual_4_audit_reviewer_hd.png), [`ShieldBot_Screens_and_Description_2.pdf`](ShieldBot_Screens_and_Description_2.pdf), [`HazardWise_DI_Screenprints.pdf`](HazardWise_DI_Screenprints.pdf), and related PDFs | Visual prototypes for structured observations, threshold events, map-based review, audit-chain review, hazard review, and defensive security observations. Source and executable builds are not included. |
 | Native game demonstrations | `Page Two`, `The Courier: Wrong Door`, `PUT THE MOON BACK`, `The Morning Line`, and `The Tornado` artifacts | macOS-oriented screenshots, visual portfolios, and short gameplay recordings documenting interface and gameplay behavior. These are media and build records, not distributable game packages. |
 
 ## Key Capabilities Evidenced
@@ -59,10 +65,6 @@ The BriefWise replay materials show a save-close-reopen cycle followed by fresh 
 
 The repository includes human-readable records, machine-readable evidence within the redacted ZIP archive, SHA-256 manifests, and Git commit history. Hashes can establish that bytes match a recorded artifact; they do not establish factual, legal, scientific, or analytical correctness.
 
-### Deliberate validation boundaries
-
-The strongest records state their limitations. Examples include synthetic inputs, no claim of universal determinism, no independent third-party certification, no complete legal validation, and no claim of production-security review or enterprise deployment readiness.
-
 ## Architecture
 
 The desktop control applications represented here generally follow this documented pattern:
@@ -72,7 +74,7 @@ Matter or evidence input
   -> frozen or normalized records
   -> structured source / proposition mapping
   -> rule and validation gates
-  -> HOLD, RELEASE, or FilingReady disposition
+  -> HOLD, RELEASE, or FilingReady (system-defined release state) disposition
   -> audit and replay record
   -> authorized export with receipts and hashes
 ```
@@ -84,7 +86,7 @@ The exact stages vary by product. This diagram is a repository-grounded summary 
 1. **Bind the input.** A matter, observation, source set, or game seed establishes the run context.
 2. **Create structured records.** The interface separates inputs, mappings, candidates, and unresolved items rather than treating the result as a single text response.
 3. **Evaluate controls.** Required fields, thresholds, mappings, or other declared conditions determine whether the run can progress.
-4. **Route the state.** The system records a disposition such as `HOLD`, `RELEASE`, `FilingReady`, or unresolved.
+4. **Route the state.** The system records a disposition such as `HOLD`, `RELEASE`, `FilingReady` (a system-defined release state, not a legal conclusion), or unresolved.
 5. **Preserve evidence.** Receipts, event history, canonical representations, exports, and hashes provide an inspection trail where shown by the relevant artifact.
 
 ## Repository Structure
@@ -142,12 +144,12 @@ There is no application build or installation command on `main` because executab
 
 | Evidence | What the repository records | Current review status |
 | --- | --- | --- |
-| Local Control Desk MVP 0.1.0, Version 6 | Typecheck, lint, production build, 14/14 automated tests, visual QA, print inspection, persistence/reset testing, and exported-byte comparison are reported in the implementation record. Physical Mac operation is shown separately. | Historical, creator-supplied record; no runnable suite is present here. |
+| Local Control Desk MVP 0.1.0, Version 6 | Typecheck, lint, production build, 14/14 automated tests, visual QA, print inspection, persistence/reset testing, and exported-byte comparison are reported in the implementation record. Physical Mac operation is shown separately. | Historical project validation record; runnable suite not included in this repository. |
 | BriefWise DI² replay | Close, reopen, fresh evaluation, canonical-byte comparison, and SHA-256 match are shown for a synthetic filing-integrity vertical slice. | Artifact inspected; replay could not be independently executed from this repository. |
 | The Tornado v1.1.0 | The supplied build record reports 45 passing tests across nine files, type checks, lint, production build, scripted replay, and offscreen rendering. | Historical record; the application suite was not rerun during publication. The build remains labeled `DRAFT` pending stated browser/native checks. |
 | Redacted Gemini report package | `SHA256SUMS.txt` binds the PDF, Markdown report, and evidence ZIP; the ZIP also contains a per-file integrity manifest. | All three published checksums passed during the September 16, 2026 repository review. This confirms byte identity only. |
 
-No source-level test coverage can be calculated from the current `main` branch. No artifact in this repository should be treated as independent certification, a legal-correctness guarantee, or a production-readiness finding.
+Current-review checks are limited to the artifacts and manifests identified above; source-level coverage cannot be calculated from this public archive.
 
 ## Example Use Cases
 
@@ -195,13 +197,15 @@ Recommended citation:
 
 Copyright © 2026 Grounded DI LLC. Product names and project terminology are used for identification and attribution.
 
-This repository does not currently include an open-source `LICENSE` file. Public availability should not be interpreted as an open-source license or permission to reuse confidential or proprietary implementation material. Patent status is not asserted in this README because the current repository contents do not provide filing records sufficient to support a specific public statement.
+No open-source license is granted by this repository. Publicly accessible materials remain subject to applicable copyright, trademark, contractual, and other rights except where expressly stated otherwise. Nonpublic implementation materials are outside the scope of this repository.
+
+Patent and filing information is maintained separately from this repository. This README makes no representation regarding the scope or status of any particular filing unless supported by an identified public record.
 
 Private prompts, source archives, runtime packages, and internal governance materials are outside the public repository unless expressly included in a marked publication artifact.
 
 ## Status
 
-**Public evidence archive / prototype documentation.** The collection supports artifact review, provenance analysis, and preliminary technical or commercial diligence. It is not an installable product distribution, complete source release, independent audit, certification, or statement of production readiness. The repository currently has no tagged releases.
+**Active public technical-evidence and prototype archive** supporting artifact review, provenance analysis, replay inspection, and preliminary technical or commercial diligence. Executable distributions and private implementation materials are maintained separately where applicable.
 
 ## Contact and Collaboration
 
