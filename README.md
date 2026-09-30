@@ -40,6 +40,30 @@ The archive allows technical and commercial reviewers to inspect how Grounded DI
 | Environmental, hazard, and security interfaces | [`earthwise_visual_1_command_center_hd.png`](earthwise_visual_1_command_center_hd.png), [`earthwise_visual_2_eloc_events_hd.png`](earthwise_visual_2_eloc_events_hd.png), [`earthwise_visual_3_cleanair_map_hd.png`](earthwise_visual_3_cleanair_map_hd.png), [`earthwise_visual_4_audit_reviewer_hd.png`](earthwise_visual_4_audit_reviewer_hd.png), [`ShieldBot_Screens_and_Description_2.pdf`](ShieldBot_Screens_and_Description_2.pdf), [`HazardWise_DI_Screenprints.pdf`](HazardWise_DI_Screenprints.pdf), and related PDFs | Visual prototypes for structured observations, threshold events, map-based review, audit-chain review, hazard review, and defensive security observations. Source and executable builds are not included. |
 | Native game demonstrations | `Page Two`, `The Courier: Wrong Door`, `PUT THE MOON BACK`, `The Morning Line`, and `The Tornado` artifacts | macOS-oriented screenshots, visual portfolios, and short gameplay recordings documenting interface and gameplay behavior. These are media and build records, not distributable game packages. |
 
+## VerdictBridge and DepoBot Screen Evidence
+
+These three original captures from [draft PR #1](https://github.com/Grounded-DI/GroundedDI-Desktop-Builds/pull/1) preserve interface states for review. The VerdictBridge screens show a synthetic trucking matter in Indiana; the DepoBot screen shows no selected matter.
+
+### VerdictBridge DI²: assessment scope
+
+![VerdictBridge DI2 assessment for a synthetic Indiana trucking matter, with runtime verification unresolved](VerdictBridge_DI2_Landing.png)
+
+The assessment view shows Indiana, Marion Superior Court, pretrial settlement evaluation, a discovery-record posture, and one selected synthetic source. It displays attorney-controlled review, a no-outcome-guarantee notice, and **runtime verification unresolved**. The selected source and review button show the captured interface state; they do not establish a verified execution.
+
+### VerdictBridge DI²: litigation risk matrix
+
+![VerdictBridge DI2 matrix with evidence-strength, litigation-risk, and recommended-action columns](VerdictBridge_DI2_Risk_Matrix.png)
+
+The matrix separates evidence strength, litigation risk, and recommended action. It labels its contents as qualitative, record-grounded analytical scenarios and keeps VerdictReady separate from FilingReady. The capture documents the displayed synthetic scenario, not a validated verdict prediction or filing-readiness determination.
+
+### DepoBot DI²: unresolved deposition-review inputs
+
+![DepoBot DI2 review form with no matter, unresolved transcript inputs, and zero selected sources](DepoBot_DI2_Deposition_Review_Screen.png)
+
+The review form shows **No matter**, **runtime verification unavailable**, unresolved transcript, page/line, speaker, and Q–A readiness, and **0 selected** sources. Witness, session, exhibit, and focus fields are visible, but this is an unpopulated review state, not completed deposition analysis or evidence that source-linked review succeeded.
+
+**Evidence limits:** The PNGs are preserved unchanged. These captures do not independently verify runtime controls, source bindings, analytical correctness, production deployment, or legal suitability. The VerdictBridge fixture is synthetic, and DepoBot has no selected matter. The screens do not provide live legal validation, filing certification, an outcome guarantee, or a substitute for attorney review.
+
 ## Key Capabilities Evidenced
 
 - Local-first and offline workflows in the identified demonstrations.
