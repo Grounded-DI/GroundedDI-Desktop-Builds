@@ -31,6 +31,18 @@ The archive allows technical and commercial reviewers to inspect how Grounded DI
 
 ## Repository Highlights
 
+### FastPath Games - A Visual Archive
+
+**[Read the game-history book](media/fastpath-games/fastpath-games-visual-archive.pdf)** · [Gallery, sources, and rebuild instructions](media/fastpath-games/README.md) · [Publication audit](media/fastpath-games/AUDIT.md)
+
+The October 1, 2026 edition brings together **five games, 20 distinct images, and 23 pages**: The Tornado (all four levels and the Rainbow finale), The Courier: Wrong Door, PUT THE MOON BACK, The Morning Line, and Page Two. It includes captions, organized image assets, editable source, a portable PDF generator, and SHA-256 checksums.
+
+Images come from existing local visual-QA material and public portfolios. The Morning Line currently has one capture; the book records that gap and does not claim exhaustive game discovery or newly completed play sessions.
+
+![FastPath Games visual archive cover](media/fastpath-games/cover.png)
+
+### Evidence by area
+
 | Area | Public evidence | Supported scope |
 | --- | --- | --- |
 | Grounded DI Local Control Desk | [`Grounded_DI_Local_Control_Desk_Implementation_Record_v1.pdf`](Grounded_DI_Local_Control_Desk_Implementation_Record_v1.pdf) | A documented local-first macOS MVP workflow with state controls, baseline preservation, JSON import, local persistence, receipts, SHA-256 manifest generation, and ZIP export. The record reports React/Vite and Tauri 2 implementation. |
