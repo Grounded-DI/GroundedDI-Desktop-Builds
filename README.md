@@ -29,6 +29,50 @@ The repository is intended to support technical review and scoped commercial eva
 
 The archive allows technical and commercial reviewers to inspect how Grounded DI approaches rule-gated workflows, human release boundaries, deterministic replay, provenance, and audit-ready desktop execution before requesting access to private implementations or a scoped evaluation.
 
+## Desktop Interface Gallery
+
+These five interface views cover legal work, general assistance, weather review and local defensive observations. “Law OS,” “Assistant OS” and “Weather / Hazard OS” are portfolio labels. The captures document selected development states, not standalone operating systems or verified production deployments.
+
+### Law OS / BriefWise
+
+BriefWise presents a legal workspace for questions, document review and drafting, with specialist modules for litigation-record review (VerdictBridge), deposition and testimony review (DepoBot), and product identification and exposure (PIDBot).
+
+![BriefWise Law Local home with no matter selected and four legal workspace modules](BriefWise_DI_Law_Local_HD.jpg)
+
+*Captured state: no matter is selected. The home screen shows the four module entry points and a reminder to review drafts before use; it does not show completed analysis or a filing-readiness determination.*
+
+### Assistant OS / Grounded DI Assistant
+
+Grounded DI Assistant organizes general work through chats, projects, artifacts and sources, with shortcuts for research, business, patent-related questions and the BriefWise legal workspace.
+
+![Grounded DI Assistant home with project navigation and quick-start options](Grounded_DI_Assistant_HD.jpg)
+
+*Captured state: the home screen reports “Application reachable,” shows no selected matter and indicates no local save yet. These interface labels do not independently establish model connectivity, persistence or output quality.*
+
+### Weather / Hazard OS
+
+The Weather Assistant presents a planning workspace within the DI Weather Station / HazardWise suite. Its visible controls support questions, observations, saved conversations and revisions, alongside navigation to DI Weather and HazardWise.
+
+![Weather Assistant planning view with model connection notice and observation inputs](DI_Weather_Assistant_HD.jpg)
+
+*Captured state: the interface asks the user to connect a model to begin. The screen documents the planning controls and shared suite navigation, not an active model response or completed hazard assessment.*
+
+### Dashboard / DI Weather
+
+The DI Weather dashboard presents location lookup, saved-example selection and source-review controls for weather information. It and the Weather Assistant above are views of the same captured suite; the images do not establish a separate dashboard product.
+
+![DI Weather dashboard with location lookup and a radar record labeled stale](DI_Weather_Dashboard_HD.jpg)
+
+*Captured state: no saved example is selected, and the visible radar timing record is marked stale. This is a historical interface record, not a current forecast, validated arrival estimate or operational alert.*
+
+### ShieldBot
+
+ShieldBot presents a local defensive-observation console with coverage, journal, baseline and review controls.
+
+[View the original ShieldBot 0.9.5 candidate capture](ShieldBot_0.9.5_Live.png) *(contains a local storage path; privacy review remains open).*
+
+*Captured state: the candidate reports limited coverage, 9 of 11 configured scopes completely scanned, scheduled polling while open, and enforcement unavailable with production controls disabled. The journal's “verified” label is an interface assertion, not independent validation of complete security coverage or effective protection. This historical capture does not establish current monitoring status.*
+
 ## Repository Highlights
 
 ### FastPath Games - A Visual Archive
@@ -229,16 +273,6 @@ Recommended citation:
 
 > Grounded DI LLC. (2026). *Grounded DI Desktop Builds* [Public evidence archive]. GitHub. https://github.com/Grounded-DI/GroundedDI-Desktop-Builds
 
-## Intellectual Property
-
-Copyright © 2026 Grounded DI LLC. Product names and project terminology are used for identification and attribution.
-
-No open-source license is granted by this repository. Publicly accessible materials remain subject to applicable copyright, trademark, contractual, and other rights except where expressly stated otherwise. Nonpublic implementation materials are outside the scope of this repository.
-
-Patent and filing information is maintained separately from this repository. This README makes no representation regarding the scope or status of any particular filing unless supported by an identified public record.
-
-Private prompts, source archives, runtime packages, and internal governance materials are outside the public repository unless expressly included in a marked publication artifact.
-
 ## Status
 
 **Active public technical-evidence and prototype archive** supporting artifact review, provenance analysis, replay inspection, and preliminary technical or commercial diligence. Executable distributions and private implementation materials are maintained separately where applicable.
@@ -246,6 +280,12 @@ Private prompts, source archives, runtime packages, and internal governance mate
 ## Contact and Collaboration
 
 For technical evaluation, controlled demonstrations, integration discussions, or commercial licensing, contact [Grounded DI LLC](mailto:mark@groundeddi.ai). When inquiring, identify the artifact or workflow of interest and the acceptance criteria you need to evaluate.
+
+## Rights and Disclosure
+
+© 2026 Grounded DI LLC. All rights reserved in materials owned by Grounded DI LLC. Third-party rights remain with their respective owners. Product names are used for identification and attribution. No open-source license is granted by this repository.
+
+These screenshots document selected development states. They do not establish production readiness, certification or independently verified performance. Private source code, prompts and implementation materials are outside this disclosure. No license to those materials, patents or trademarks is granted by this publication, and no patent or trademark registration status is asserted. Applicable legal exceptions and existing permissions remain unaffected.
 
 ---
 
