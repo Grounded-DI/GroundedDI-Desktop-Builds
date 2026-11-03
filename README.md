@@ -283,7 +283,7 @@ For technical evaluation, controlled demonstrations, integration discussions, or
 
 ## Rights and Disclosure
 
-© 2026 Grounded DI LLC. All rights reserved in materials owned by Grounded DI LLC. Third-party rights remain with their respective owners. Product names are used for identification and attribution.
+© 2026 Grounded DI LLC. All rights reserved in materials owned by Grounded DI LLC. Third-party rights remain with their respective owners. Product names are used for identification and attribution. No open-source license is granted by this repository.
 
 These screenshots document selected development states. They do not establish production readiness, certification or independently verified performance. Private source code, prompts and implementation materials are outside this disclosure. No license to those materials, patents or trademarks is granted by this publication, and no patent or trademark registration status is asserted. Applicable legal exceptions and existing permissions remain unaffected.
 
