@@ -25,10 +25,6 @@ Desktop AI and decision-support software can be difficult to evaluate from scree
 
 The public build records support technical review and commercial evaluation. Grounded DI retains the private runtime and implementation materials.
 
-## Evaluation Value
-
-The archive allows technical and commercial reviewers to inspect how Grounded DI approaches rule-gated workflows, human release boundaries, deterministic replay, provenance, and audit-ready desktop execution before requesting access to private implementations or a scoped evaluation.
-
 ## Repository Highlights
 
 ### FastPath Games - A Visual Archive
@@ -47,7 +43,7 @@ The images come from local visual QA and public portfolios. The book includes on
 | --- | --- | --- |
 | Grounded DI Local Control Desk | [`Grounded_DI_Local_Control_Desk_Implementation_Record_v1.pdf`](Grounded_DI_Local_Control_Desk_Implementation_Record_v1.pdf) | A documented local-first macOS MVP workflow with state controls, baseline preservation, JSON import, local persistence, receipts, SHA-256 manifest generation, and ZIP export. The record reports React/Vite and Tauri 2 implementation. |
 | BriefWise DI² audit and replay | [`BriefWise_DI²_Audit_and_Replay_Offline_close_reopen_fresh_evaluation_canonical-byte_comparison_and_SHA-256_matched.pdf`](BriefWise_DI%C2%B2_Audit_and_Replay_Offline_close_reopen_fresh_evaluation_canonical-byte_comparison_and_SHA-256_matched.pdf) | Visual evidence of frozen inputs, fresh recomputation, canonical serialization, replay comparison, and SHA-256 identity checks in a synthetic legal workflow. |
-| BriefWise DI² legal review | [`BriefWise_DI2_Localhost_Demo_Output_Deterministic_Intelligence_Grounded_DI_LLC.pdf`](BriefWise_DI2_Localhost_Demo_Output_Deterministic_Intelligence_Grounded_DI_LLC.pdf) and [`BriefWise_DI_Caselaw_Heatmap_Demo_Localhost.pdf`](BriefWise_DI_Caselaw_Heatmap_Demo_Localhost.pdf) | Localhost demonstrations of issue decomposition, unresolved-item handling, filing-readiness gating, and authority-oriented visual analysis. These are demonstrations, not legal advice or proof of legal correctness. |
+| BriefWise DI² legal review | [`BriefWise_DI2_Localhost_Demo_Output_Deterministic_Intelligence_Grounded_DI_LLC.pdf`](BriefWise_DI2_Localhost_Demo_Output_Deterministic_Intelligence_Grounded_DI_LLC.pdf) and [`BriefWise_DI_Caselaw_Heatmap_Demo_Localhost.pdf`](BriefWise_DI_Caselaw_Heatmap_Demo_Localhost.pdf) | Localhost demonstrations of issue decomposition, unresolved-item handling, filing-readiness gating, and authority-oriented visual analysis. The controls and visual analyses are illustrated with local demonstration data. |
 | Cross-engine legal drafting report | [`reports/briefwise-di2-on-gemini/`](reports/briefwise-di2-on-gemini/) | A redacted report, supporting evidence archive, source index, limitations, and SHA-256 checksums. The report analyzes errors in both compared answers and expressly rejects causal or superiority conclusions from a single unmatched comparison. |
 | Environmental, hazard, and security interfaces | [`earthwise_visual_1_command_center_hd.png`](earthwise_visual_1_command_center_hd.png), [`earthwise_visual_2_eloc_events_hd.png`](earthwise_visual_2_eloc_events_hd.png), [`earthwise_visual_3_cleanair_map_hd.png`](earthwise_visual_3_cleanair_map_hd.png), [`earthwise_visual_4_audit_reviewer_hd.png`](earthwise_visual_4_audit_reviewer_hd.png), [`ShieldBot_DI2_Local-Only_Defensive_Software_for_Auditable_Security_Observations.pdf`](ShieldBot_DI2_Local-Only_Defensive_Software_for_Auditable_Security_Observations.pdf), [`Local_HazardWise_and_DI_Weather_Station_Prototype_Screenshot.pdf`](Local_HazardWise_and_DI_Weather_Station_Prototype_Screenshot.pdf), and related PDFs | Visual prototypes for structured observations, threshold events, map-based review, audit-chain review, hazard review, and defensive security observations. Source and executable builds are not included. |
 | Native game demonstrations | `Page Two`, `The Courier: Wrong Door`, `PUT THE MOON BACK`, `The Morning Line`, and `The Tornado` artifacts | macOS-oriented screenshots, visual portfolios, and short gameplay recordings documenting interface and gameplay behavior. These are media and build records, not distributable game packages. |
@@ -85,7 +81,6 @@ The review form shows **No matter**, **runtime verification unavailable**, unres
 - Canonical serialization identified as `BW-JCS-NFC-LF-1` in the BriefWise replay artifacts.
 - SHA-256 bindings, manifests, and publication checksums for artifact-identity verification.
 - Human review and release boundaries, including attorney-controlled disposition in the Local Control Desk record.
-- Public-safe evidence packaging with marked redactions and explicit scope limitations.
 
 ## Technical Highlights
 
@@ -197,21 +192,9 @@ Current-review checks are limited to the artifacts and manifests identified abov
 - Environmental and clean-air dashboard concepts with observation events, threshold states, map views, and reviewer packets.
 - Local macOS game interfaces and gameplay demonstrations with replay, accessibility, and persistence features shown in the associated artifacts.
 
-### Potential integration scenarios
-
-Subject to access to the applicable implementation and separate commercial terms, an organization could evaluate these patterns for controlled desktop workflows, audit-receipt generation, rule-gated review, replayable decision support, or human-authorized export. These are evaluation scenarios, not claims of existing deployment.
-
 ## Commercial and Integration Context
 
-A practical evaluation can begin with a narrow workflow and explicit acceptance criteria:
-
-1. Select one decision or release boundary.
-2. Define the required inputs, control states, failure behavior, and audit outputs.
-3. Agree on which results must be reproducible and under what environment and serialization conditions.
-4. Run a scoped proof of concept with synthetic or appropriately governed data.
-5. Review integration, security, deployment, and licensing requirements separately.
-
-Commercial licensing and integration inquiries: [mark@groundeddi.ai](mailto:mark@groundeddi.ai).
+Grounded DI welcomes evaluation of the complete relevant desktop workflow under agreed acceptance criteria. Reviewers can specify the inputs, control states, failure behavior, audit outputs, replay conditions, integration needs, and licensing terms. Commercial licensing and integration inquiries can be sent to [mark@groundeddi.ai](mailto:mark@groundeddi.ai).
 
 ## Authorship and Provenance
 
@@ -223,7 +206,7 @@ This repository contains versioned development records and provenance artifacts 
 - Individual artifacts carry their own dates, version identifiers, metadata, receipts, or hashes where available.
 - The redacted report package includes both an external checksum list and an internal per-file manifest.
 
-Repository timestamps, commit metadata, hashes, and internal records are useful provenance and integrity evidence. They do not, by themselves, establish legal ownership, inventorship, patent priority, or the truth of an artifact's substantive claims.
+Repository timestamps, commit metadata, and hashes document the history and identity of published files. Patent ownership and priority follow the relevant legal records.
 
 Recommended citation:
 
@@ -235,13 +218,9 @@ Copyright © 2026 Grounded DI LLC. Product names and project terminology are use
 
 No open-source license is granted by this repository. Publicly accessible materials remain subject to applicable copyright, trademark, contractual, and other rights except where expressly stated otherwise. Nonpublic implementation materials are outside the scope of this repository.
 
-Patent and filing information is maintained separately from this repository. This README makes no representation regarding the scope or status of any particular filing unless supported by an identified public record.
-
-Private prompts, source archives, runtime packages, and internal governance materials are outside the public repository unless expressly included in a marked publication artifact.
-
 ## Status
 
-**Active public technical-evidence and prototype archive** supporting artifact review, provenance analysis, replay inspection, and preliminary technical or commercial diligence. Executable distributions and private implementation materials are maintained separately where applicable.
+**Active public archive** for desktop prototypes, run records, replay evidence, and technical or commercial review.
 
 ## Contact and Collaboration
 
