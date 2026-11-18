@@ -23,7 +23,7 @@ Desktop AI and decision-support software can be difficult to evaluate from scree
 - What receipts, manifests, or hashes preserve artifact identity?
 - Where does human authorization remain required?
 
-The repository is intended to support technical review and scoped commercial evaluation without publishing private prompts, runtime packages, internal governance materials, or other nonpublic implementation details.
+The public build records support technical review and commercial evaluation. Grounded DI retains the private runtime and implementation materials.
 
 ## Evaluation Value
 
@@ -37,7 +37,7 @@ The archive allows technical and commercial reviewers to inspect how Grounded DI
 
 The October 1, 2026 edition brings together **five games, 20 distinct images, and 23 pages**: The Tornado (all four levels and the Rainbow finale), The Courier: Wrong Door, PUT THE MOON BACK, The Morning Line, and Page Two. It includes captions, organized image assets, editable source, a portable PDF generator, and SHA-256 checksums.
 
-Images come from existing local visual-QA material and public portfolios. The Morning Line currently has one capture; the book records that gap and does not claim exhaustive game discovery or newly completed play sessions.
+The images come from local visual QA and public portfolios. The book includes one capture of The Morning Line.
 
 ![FastPath Games visual archive cover](media/fastpath-games/cover.png)
 
