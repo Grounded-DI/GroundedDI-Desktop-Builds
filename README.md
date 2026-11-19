@@ -31,7 +31,7 @@ The public build records support technical review and commercial evaluation. Gro
 
 
 
-### FastPath Games - A Visual Archive
+**[Arcade · November 19 ten-image teaser selection](media/fastpath-games/arcade-teaser-2026-11-19/README.md)** — curated across ten gameplay and title views. Selection index published; new preview binaries are not yet hosted.\n\n### FastPath Games - A Visual Archive
 
 **[Read the game-history book](media/fastpath-games/fastpath-games-visual-archive.pdf)** · [Gallery, sources, and rebuild instructions](media/fastpath-games/README.md) · [Publication audit](media/fastpath-games/AUDIT.md)
 
