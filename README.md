@@ -27,6 +27,10 @@ The public build records support technical review and commercial evaluation. Gro
 
 ## Repository Highlights
 
+**[Native Arcade spot-check · November 19, 2026](media/fastpath-games/native-arcade-2026-11-19/README.md)** — scoped installed-app checks, evidence boundaries, and hashes of seven original captures (image files not published here).
+
+
+
 ### FastPath Games - A Visual Archive
 
 **[Read the game-history book](media/fastpath-games/fastpath-games-visual-archive.pdf)** · [Gallery, sources, and rebuild instructions](media/fastpath-games/README.md) · [Publication audit](media/fastpath-games/AUDIT.md)

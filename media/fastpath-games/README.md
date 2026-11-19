@@ -59,3 +59,8 @@ On Linux, use `sha256sum -c SHA256SUMS.txt`. Checksums establish file identity; 
 - Rights: the repository's existing intellectual-property terms apply. No additional license is granted by this package.
 
 Suggested citation: Grounded DI LLC. (2026). *FastPath Games - A Visual Archive*. Grounded DI Desktop Builds, audited publication edition.
+
+
+## November 19, 2026 native Arcade evidence
+
+A bounded native Arcade spot-check is documented in [the evidence note](native-arcade-2026-11-19/README.md) and [screenshot SHA-256 index](native-arcade-2026-11-19/SCREENSHOT_HASH_INDEX.md). The original PNG files are not in this repository. One Echo Vault round, persistence, and backup workflows were observed; PAGE TWO story progression and Seaside movement remain unverified.
